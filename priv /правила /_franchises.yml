@@ -187,8 +187,8 @@
     franchise: ao_no_exorcist
     not_anime_ids:
     - 13677
-  threshold: 96.7%
-  metadata: &21
+  threshold: 87%
+  метданные:&21
     title_ru: Синий экзорцист
     title_en: Ao no Exorcist
     image: "/assets/achievements/anime/franchise/ao_no_exorcist.jpg"
